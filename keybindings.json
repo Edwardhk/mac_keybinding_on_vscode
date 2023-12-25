@@ -362,5 +362,13 @@
     {
         "key": "ctrl+a",
         "command": "cursorLineStart"
+    },
+    {
+        "key": "alt+b",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "-workbench.action.toggleSidebarVisibility"
     }
 ]
